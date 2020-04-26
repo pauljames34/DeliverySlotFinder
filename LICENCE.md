@@ -1,3 +1,5 @@
-This software is free to use
+This software is free to use.
+
+(c) 2020 Paul James
 
 
