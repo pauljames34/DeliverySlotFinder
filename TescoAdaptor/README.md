@@ -1,0 +1,1 @@
+This adpator connects to the Tesco Website
